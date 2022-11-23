@@ -20,7 +20,10 @@ Exiba o valor para o usuário.
 
 <br>
 
-📔 <b>4 - Um pouco de Geometria</b>
+📔 <b>4 - Um pouco de Geometria</b><br>
+<div align='center'>
+<img src="https://user-images.githubusercontent.com/111239606/203464261-2b1aa4d2-1ec9-4718-9ef2-ad2802095c30.png"/>
+</div><br>
 
 >Considerando a figura acima, escreva um programa para cada forma que calcule e exiba em tela cada uma de suas respectivas áreas. O usuário irá informar os valores de cada variável.
 
